@@ -1,0 +1,20 @@
+{
+    "name": "urja-ramani/google-my-business-api-php-client",
+    "description": "The Google My Business API provides an interface for managing business location information on Google for PHP",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "google/apiclient": "^2.0"
+    },
+    "autoload": {
+        "files": [
+            "MyBusiness.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Urja Ramani",
+            "email": "urja.satodiya@gmail.com"
+        }
+    ]
+}
