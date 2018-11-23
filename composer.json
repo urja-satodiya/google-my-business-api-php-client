@@ -3,6 +3,7 @@
     "description": "The Google My Business API provides an interface for managing business location information on Google for PHP",
     "keywords": ["google-api", "google", "api", "my-business", "mybusiness", "mybusiness-api", "google-my-business-api", "google-mybusiness-api"],
     "type": "library",
+    "license": "Apache-2.0",
     "require": {
         "php": ">=5.4.0",
         "google/apiclient": "^2.0"
