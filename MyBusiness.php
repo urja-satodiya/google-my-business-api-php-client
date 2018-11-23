@@ -16,7 +16,7 @@
  */
 
 /**
- * Service definition for MyBusiness (v3).
+ * Service definition for MyBusiness (v4).
  *
  * <p>
  * The Google My Business API provides an interface for managing business
